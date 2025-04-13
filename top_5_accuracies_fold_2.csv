@@ -1,0 +1,6 @@
+Combination,Fold,Accuracy
+"DenseNet169, InceptionResNetV2, VGG19, ResNet50V2",Fold_2,0.97883149872989
+"InceptionResNetV2, VGG19, ResNet50V2",Fold_2,0.9805249788314987
+"InceptionResNetV2, VGG19, MobileNetV2, ResNet50V2",Fold_2,0.97883149872989
+"DenseNet169, InceptionResNetV2, VGG19, MobileNetV2",Fold_2,0.9720575783234547
+"DenseNet169, InceptionResNetV2, VGG19, MobileNetV2, ResNet50V2",Fold_2,0.9686706181202371
